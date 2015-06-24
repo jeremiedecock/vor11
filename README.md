@@ -6,7 +6,8 @@ Copyright (c) 2014,2015 Jeremie DECOCK (http://www.jdhp.org)
 
 TODO...
 
-![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-1.jpeg)
+![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-2.jpeg)
+![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-4.jpeg)
 
 ## License
 
