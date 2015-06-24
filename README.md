@@ -9,6 +9,7 @@ robot. It uses the [OpenCV](http://opencv.org/) library for computer vision
 experiments.
 
 TODO...
+The python source code used to control the robot is not available yet...
 
 ![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-2.jpeg)
 ![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-4.jpeg)
