@@ -4,6 +4,9 @@ Copyright (c) 2014,2015 Jeremie DECOCK (http://www.jdhp.org)
 
 ## Description
 
+The Vor11 project is a RaspberryPi wheeled robot using OpenCV for computer
+vision experiments.
+
 TODO...
 
 ![Photo 1 VOR11](http://download.tuxfamily.org/jdhp/image/vor11-2.jpeg)
